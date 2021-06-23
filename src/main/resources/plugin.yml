@@ -1,0 +1,7 @@
+name: MyFirstPlugin
+version: ${project.version}
+main: club.hostage.myfirstplugin.MyFirstPlugin
+api-version: 1.17
+authors: [ Mirt ]
+description: My first plugin ever
+website: https://hostage.club
